@@ -5,6 +5,9 @@
 __pycache__
 media
 
+.vscode
+.eslintrc.cjs
+react.svg
 
 # Python # 
 *.py[cod] 
